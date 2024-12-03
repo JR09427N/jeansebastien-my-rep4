@@ -4,7 +4,7 @@ This repository contains Python FastAPI code for a server I built as part of a p
 The server is designed to process image data for student ID verification. It handles tasks like 
 comparing faces between a student’s ID and a selfie, and extracting the student’s name from the ID image.
 
-Niote for Professor Baik
+Note for Professor Baik
 
 I want to acknowledge that this project isn’t aligned with the OS capstone's assignment requirements. 
 Unfortunately, after losing all my work from earlier parts of the assignment due to technical issues, 
